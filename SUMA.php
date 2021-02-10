@@ -1,8 +1,9 @@
 <?php
 
-/* 
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+echo (5 + 5)."\n";           // muestra 2
+echo (5 + -9)."\n";          // muestra 2
+echo (5 + 4)."\n";          // muestra -2
+echo (5 + 3)."\n";         // muestra -2
+
+?>
 
